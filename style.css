@@ -1,0 +1,44 @@
+body {
+    background-color: whitesmoke;
+    padding-top: 56px;
+}
+                                    
+.carousel-item img {
+    height: 400px;
+    width: 100px;
+    object-fit:contain;
+    padding-top: 50px;
+}
+ 
+.navbar {
+    background-color:rgb(68, 46, 46);
+   
+
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+    color: yellow;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+
+.nav-item .nav-link:hover {
+    color: rgb(183, 73, 73);
+}
+
+.aboutus{
+    font-size: x-large;
+    color:rgb(19, 19, 19);
+    font-family:'Times New Roman', Times, serif;
+
+}
+.text-center p-3{
+    color: aquamarine;
+}
+
+
+#footer h2{
+    background-color: rgb(126, 85, 99);
+    color: rgb(8, 8, 8);
+}
